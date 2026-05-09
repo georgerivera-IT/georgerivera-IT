@@ -4,4 +4,4 @@ IT Support & Networking professional pursuing CCNA
 - 📜 AWS Cloud Foundations | Fortinet Cybersecurity | CCNA (In Progress)
 - 🔧 Skills: Cisco IOS, Active Directory, VMware, Windows 10/11
 - 📫 george.antonrivera@gmail.com
-- 📞 (805)266-1890
+- 📞 (805) 266-1890
