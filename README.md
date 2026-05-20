@@ -1,4 +1,4 @@
-# Hi, I'm George Rivera
+# Hi, I'm George Anton Rivera
 IT Support & Networking professional pursuing CCNA
 - 🎓 B.S. Engineering Technology – Computer Network System Management (SJSU)
 - 📜 AWS Cloud Foundations | Fortinet Cybersecurity | CCNA (In Progress)
